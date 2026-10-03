@@ -1,0 +1,1 @@
+Your proposal mentions two different types of vacancy, so choose one to predict and decide how you'll measure success. Clustering is useful for grouping similar states, but for prediction you'll need a model that can predict numbers, along with a few other factors besides minimum wage. Finally, use data from all states rather than just one so you have enough data to work with.
